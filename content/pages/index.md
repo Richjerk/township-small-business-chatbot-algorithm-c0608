@@ -9,7 +9,9 @@ sections:
         Algorithm
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Empowering Local Entrepreneurs through AI-driven Customer Engagement and
+      Support
     text: >
       A Stackbit website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
