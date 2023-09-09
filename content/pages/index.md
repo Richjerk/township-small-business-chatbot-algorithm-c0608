@@ -171,7 +171,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Empowering Small Businesses
       color: text-primary
       type: Badge
     elementId: ''
