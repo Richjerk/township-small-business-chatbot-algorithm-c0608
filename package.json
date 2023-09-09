@@ -1,0 +1,43 @@
+{
+    "name": "content-ops-theme",
+    "version": "0.1.0",
+    "engines": {
+        "node": ">=16"
+    },
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "dependencies": {
+        "@algolia/autocomplete-js": "^1.11.0",
+        "@algolia/autocomplete-theme-classic": "^1.11.0",
+        "@ninetailed/experience.js-next": "^2.2.8",
+        "algoliasearch": "^4.14.2",
+        "axios": "^1.4.0",
+        "classnames": "^2.3.2",
+        "dayjs": "^1.11.9",
+        "front-matter": "^4.0.2",
+        "glob": "^8.1.0",
+        "jose": "^3.20.4",
+        "markdown-to-jsx": "^7.2.1",
+        "marked": "^4.1.1",
+        "next": "13.4.2",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "swiper": "^9.4.1",
+        "tailwindcss": "^3.3.3"
+    },
+    "devDependencies": {
+        "@base2/pretty-print-object": "^1.0.2",
+        "@stackbit/cms-git": "^0.3.21",
+        "@stackbit/types": "^0.10.1",
+        "@types/glob": "^8.0.0",
+        "@types/react": "^18.2.21",
+        "@types/react-dom": "^18.2.7",
+        "autoprefixer": "^10.4.15",
+        "prettier": "^2.7.1",
+        "typescript": "^4.8.4"
+    },
+    "main": "next.config.js"
+}
