@@ -213,11 +213,6 @@ sections:
         price: Custom
         details: per month
         description: >
-          Promoting macro enterprises on the Township Small Business Chatbot
-          Algorithm platform can be a powerful way to foster economic growth,
-          create synergies, and support the local business ecosystem. Here's a
-          brief overview of how macro enterprises can advertise and collaborate
-          effectively within this platform:
 
 
           1.  **Understanding the Audience:**
