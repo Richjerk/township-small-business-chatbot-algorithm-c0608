@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: Affordable Plans Tailored for Every Township Business
     plans:
-      - title: Developers
+      - title: List Your Business
         price: Free
         details: No credit card required
         description: >-
