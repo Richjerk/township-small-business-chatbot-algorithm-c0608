@@ -3,7 +3,7 @@ title: Township Informal Businesses vs Formal Businesses
 slug: careers
 sections:
   - title:
-      text: Understanding the Landscape of Local Enterprises
+      text: Township Informal Businesses vs Formal Businesses
       color: text-dark
       styles:
         self:
