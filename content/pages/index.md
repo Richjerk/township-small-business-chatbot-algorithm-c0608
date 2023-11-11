@@ -946,5 +946,6 @@ seo:
     connections for growth. Explore challenges, celebrate differences, and
     unlock opportunities in township commerce.
   type: Seo
+  socialImage: /images/download (5).jpg
 type: PageLayout
 ---
