@@ -937,7 +937,9 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: ''
+  metaTitle: >-
+    Township Small Business Chatbot Algorithm - Empowering Township
+    Entrepreneurs
   metaDescription: This demo site is built with Stackbit
   socialImage: /images/main-hero.svg
   type: Seo
