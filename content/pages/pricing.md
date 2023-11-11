@@ -314,7 +314,7 @@ sections:
     type: PricingSection
     badge:
       type: Badge
-      label: ''
+      label: 'https://images.app.goo.gl/WQhoL96dSHtozzxs9'
       color: text-primary
 type: PageLayout
 seo:
