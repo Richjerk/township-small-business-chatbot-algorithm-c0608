@@ -99,7 +99,7 @@ sections:
         type: PricingPlan
       - title: 'Product '
         price: R99
-        details: 'per '
+        details: per item
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
