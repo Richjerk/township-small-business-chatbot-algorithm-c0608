@@ -105,5 +105,6 @@
     ],
     "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "title": "Township Small Business Chatbot Algorithm"
 }
