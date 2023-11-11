@@ -181,4 +181,5 @@ seo:
     Formal Businesses.Importance of understanding the differences and
     challenges.
   addTitleSuffix: true
+  socialImage: /images/E2krUwcXEAIg46p.jpg
 ---
