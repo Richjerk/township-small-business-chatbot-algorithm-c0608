@@ -130,7 +130,7 @@ type: PostLayout
 author: content/data/township-business-algorithm.json
 featuredImage:
   type: ImageBlock
-  url: /images/hero2.svg
+  url: /images/abstract-feature1.svg
   altText: Image alt text placeholder
   elementId: ''
   styles:
