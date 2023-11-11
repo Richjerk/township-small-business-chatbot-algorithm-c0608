@@ -14,9 +14,12 @@ sections:
       - title: List Your Business
         price: Free
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          **Create a Business Profile**: If the platform allows, create a
+          profile or listing for your business. This typically involves filling
+          out a form with the business information you've gathered. Ensure that
+          the information is accurate and up to date.
+
         features:
           - Feature one
           - Feature two
