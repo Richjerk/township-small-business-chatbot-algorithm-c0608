@@ -937,7 +937,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: ''
   metaDescription: This demo site is built with Stackbit
   socialImage: /images/main-hero.svg
   type: Seo
