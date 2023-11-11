@@ -78,7 +78,7 @@ sections:
           - Feature four
         image:
           url: /images/E2krUwcXEAIg46p.jpg
-          altText: Pricing plan 1
+          altText: What kind of entreprneur are you?
           type: ImageBlock
         actions:
           - label: Try for free
