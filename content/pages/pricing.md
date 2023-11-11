@@ -97,7 +97,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: 'Product '
+      - title: Product  Listing
         price: R0
         details: per item
         description: >-
