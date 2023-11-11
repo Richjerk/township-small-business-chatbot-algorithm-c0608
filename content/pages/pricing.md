@@ -290,7 +290,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Contact us
-            url: /
+            url: /contact@businessalgorithm.store
             icon: arrowRight
             iconPosition: right
             style: secondary
