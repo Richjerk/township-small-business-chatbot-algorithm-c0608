@@ -128,6 +128,14 @@ styles:
     flexDirection: col
 type: PostLayout
 author: content/data/township-business-algorithm.json
+featuredImage:
+  type: ImageBlock
+  url: /images/hero2.svg
+  altText: Image alt text placeholder
+  elementId: ''
+  styles:
+    self:
+      borderRadius: medium
 ---
 ***Statistical Report: Analyzing Challenges and Differences Between Township Informal Businesses and Formal Businesses***
 
