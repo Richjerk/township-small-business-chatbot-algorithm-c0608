@@ -945,7 +945,6 @@ seo:
     between informal and formal businesses, providing support, resources, and
     connections for growth. Explore challenges, celebrate differences, and
     unlock opportunities in township commerce.
-  socialImage: /images/main-hero.svg
   type: Seo
 type: PageLayout
 ---
