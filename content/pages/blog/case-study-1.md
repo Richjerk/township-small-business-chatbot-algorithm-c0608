@@ -55,13 +55,6 @@ excerpt: >-
   thrive in the modern world.---Feel free to modify and expand upon this excerpt
   to suit the specific goals and narrative of your Township Small Business
   Chatbot Algorithm project.
-featuredImage:
-  url: /images/img-placeholder.svg
-  altText: Case study 1
-  styles:
-    self:
-      borderRadius: large
-  type: ImageBlock
 bottomSections:
   - title: Business Bot for Townships
     colors: bg-light-fg-dark
