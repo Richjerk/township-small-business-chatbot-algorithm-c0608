@@ -193,7 +193,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: ''
+    subtitle: Empowering Township Enterprises Through Technology
     items:
       - type: FeaturedItem
         title: 500k
