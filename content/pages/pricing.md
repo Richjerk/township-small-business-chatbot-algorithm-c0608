@@ -98,7 +98,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: 'Product '
-        price: R99
+        price: R0
         details: per item
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
