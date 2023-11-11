@@ -169,10 +169,5 @@ sections:
       subtitle:
         textAlign: center
     type: PricingSection
-seo:
-  metaTitle: Pricing - Demo site
-  metaDescription: This is the pricing page built with Stackbit.
-  socialImage: /images/main-hero.svg
-  type: Seo
 type: PageLayout
 ---
