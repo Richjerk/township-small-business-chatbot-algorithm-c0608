@@ -940,7 +940,11 @@ seo:
   metaTitle: >-
     Township Small Business Chatbot Algorithm - Empowering Township
     Entrepreneurs
-  metaDescription: This demo site is built with Stackbit
+  metaDescription: >-
+    Empowering Township Small Businesses: Our Chatbot Algorithm bridges the gap
+    between informal and formal businesses, providing support, resources, and
+    connections for growth. Explore challenges, celebrate differences, and
+    unlock opportunities in township commerce.
   socialImage: /images/main-hero.svg
   type: Seo
 type: PageLayout
