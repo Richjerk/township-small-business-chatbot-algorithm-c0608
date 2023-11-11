@@ -1,17 +1,17 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
-        "altText": "Logo light",
+        "url": "/images/Township Biz ChatBot.png",
+        "altText": "Township Small Business Chatbot Algorithm",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "**Brand Name**: TownshipBizBot\n\n**Brand Slogan**: \"Empowering Township Entrepreneurs\"\n\n**Description**:\n\nTownshipBizBot is not just a brand; it's a beacon of hope, innovation, and empowerment in the heart of townships. It represents a commitment to nurturing and uplifting small businesses, both informal and formal, within these vibrant communities.\n\n**Our Mission**:\n\nAt TownshipBizBot, our mission is clear: to bridge the gap between the unique challenges faced by township entrepreneurs and the limitless opportunities that await them. We aim to create an ecosystem of support, guidance, and connection that propels township businesses to new heights of success.\n\n**Core Values**:\n\n*   **Empowerment**: We believe in empowering township businesses by providing them with the tools, resources, and knowledge they need to thrive.\n\n*   **Inclusivity**: Our brand is all about inclusivity, ensuring that all entrepreneurs have access to the support they deserve, regardless of their business structure or size.\n\n*   **Community**: We are deeply rooted in the township communities we serve. Our commitment to community-driven progress is at the heart of our brand.\n\n*   **Innovation**: We are at the forefront of technological innovation, leveraging the power of AI and chatbot technology to drive positive change.\n\n**What Sets Us Apart**:\n\nTownshipBizBot is not just a chatbot; it's a dedicated partner on the journey to success. Our unique blend of technology, community engagement, and a deep understanding of the township business landscape sets us apart. We are committed to making a tangible impact by breaking down barriers, fostering growth, and celebrating the entrepreneurial spirit of townships.\n\n**Our Promise**:\n\n*   We promise to provide practical solutions to the challenges faced by township businesses.\n\n*   We promise to connect entrepreneurs with resources and opportunities that can transform their businesses.\n\n*   We promise to be a reliable and ever-present companion on the path to success.\n\nTownshipBizBot is more than just a brand; it's a movement that seeks to redefine the narrative of township businesses and empower them to reach new heights. Together, we are building a brighter future for township entrepreneurs.\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
+                "label": "Digital Business Ambassadors",
+                "altText": "Small Business Platform",
+                "url": "/digibiz.net.za",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -105,5 +105,6 @@
     ],
     "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "title": "Township Small Business Chatbot Algorithm"
 }
