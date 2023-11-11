@@ -170,4 +170,6 @@ sections:
         textAlign: center
     type: PricingSection
 type: PageLayout
+seo:
+  type: Seo
 ---
