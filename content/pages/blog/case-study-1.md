@@ -15,7 +15,7 @@ featuredImage:
       borderRadius: large
   type: ImageBlock
 bottomSections:
-  - title: Divider
+  - title: Business Bot for Townships
     colors: bg-light-fg-dark
     styles:
       self:
