@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: '"Township Business Guide"'
 slug: pricing
 sections:
   - title:
