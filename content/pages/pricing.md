@@ -281,7 +281,7 @@ sections:
           - Feature five
         image:
           url: /images/E2krUwcXEAIg46p.jpg
-          altText: Pricing plan 3
+          altText: Business Chat
           type: ImageBlock
         actions:
           - label: Contact us
