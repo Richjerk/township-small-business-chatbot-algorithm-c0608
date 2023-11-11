@@ -99,7 +99,7 @@ sections:
         type: PricingPlan
       - title: Product / Service
         price: R99
-        details: per month
+        details: 'per '
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
