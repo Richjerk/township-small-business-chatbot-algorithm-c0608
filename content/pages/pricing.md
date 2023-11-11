@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Affordable Plans Tailored for Every Township Business
     plans:
       - title: Developers
         price: Free
