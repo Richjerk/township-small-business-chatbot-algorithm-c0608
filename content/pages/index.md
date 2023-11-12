@@ -241,7 +241,7 @@ sections:
 
           **
         image:
-          url: /images/icon2.svg
+          url: /images/SA YOUTH.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
