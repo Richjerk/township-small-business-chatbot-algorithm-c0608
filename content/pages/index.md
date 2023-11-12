@@ -198,7 +198,7 @@ sections:
       - url: /images/Small Business Development.jpg
         altText: Small Business Development
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/DigiBiz_Logo_Formats-01.avif
         altText: Telus logo
         type: ImageBlock
       - url: /images/SABI.jpg
