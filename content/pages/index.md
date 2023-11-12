@@ -881,11 +881,119 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Creating a generic section with a form for your Township Small Business
+      ChatBot Algorithm allows businesses to input their information, making it
+      easier for them to be part of the platform. You can use the
+      `BusinessProfile.svelte` component created earlier to create this form.
+      Here's how to integrate it into your application:
+
+
+      **1. BusinessProfile.svelte Component:**
+
+      We'll modify the `BusinessProfile.svelte` component to serve as a generic
+      form for businesses to input their information.
+
+          <!-- src/components/BusinessProfile.svelte -->
+
+          <script>
+            let businessInfo = {
+              name: '',
+              gpsLocation: '',
+              description: '',
+              productService: '',
+              image: null // Add an image field for file upload
+            };
+
+            async function saveProfile() {
+              // Here you can send a request to your server to save the business profile data
+              // Example: You might use an API to send the data to your backend
+              const formData = new FormData();
+              formData.append('name', businessInfo.name);
+              formData.append('gpsLocation', businessInfo.gpsLocation);
+              formData.append('description', businessInfo.description);
+              formData.append('productService', businessInfo.productService);
+              formData.append('image', businessInfo.image);
+
+              const response = await fetch('/api/business-profile', {
+                method: 'POST',
+                body: formData,
+              });
+
+              if (response.ok) {
+                // Profile saved successfully
+              } else {
+                // Handle error
+              }
+            }
+
+            function handleImageUpload(event) {
+              businessInfo.image = event.target.files[0];
+            }
+          </script>
+
+          <style>
+            /* Add component-specific styles here */
+          </style>
+
+          <div class="business-profile">
+            <h2>Business Profile</h2>
+            <form on:submit={saveProfile}>
+              <label for="name">Business Name:</label>
+              <input type="text" id="name" bind:value={businessInfo.name} required>
+              
+              <label for="gpsLocation">GPS Location:</label>
+              <input type="text" id="gpsLocation" bind:value={businessInfo.gpsLocation} required>
+              
+              <label for="description">Description:</label>
+              <textarea id="description" bind:value={businessInfo.description} required></textarea>
+              
+              <label for="productService">Product/Service:</label>
+              <input type="text" id="productService" bind:value={businessInfo.productService} required>
+
+              <label for="image">Business Image:</label>
+              <input type="file" id="image" on:change={handleImageUpload}>
+              
+              <button type="submit">Save Profile</button>
+            </form>
+          </div>
+
+      This modified component includes an additional `image` field that allows
+      businesses to upload an image or logo. The `handleImageUpload` function
+      handles the image selection.
+
+
+      **2. Server-Side API Endpoint:**
+
+      You will need to create a server-side API endpoint to handle the form data
+      and save it to your database. Create an API route for this purpose.
+
+          // server.js (or your server file)
+
+          // ... (other imports and setup)
+
+          app.post('/api/business-profile', upload.single('image'), (req, res) => {
+            const { name, gpsLocation, description, productService } = req.body;
+            const imageFilePath = req.file ? req.file.path : null; // Get the file path if an image was uploaded
+
+            // Save this data to your database or storage as needed
+            // You may use a database library like Mongoose (for MongoDB) or Sequelize (for SQL databases)
+
+            // Send a response
+            res.json({ message: 'Business profile saved successfully' });
+          });
+
+          // ... (other routes and middleware)
+
+      In this route, the server handles the business profile data, including the
+      uploaded image (if any), and saves it to your database.
+
+
+      This updated `BusinessProfile.svelte` component and server-side API
+      endpoint allow businesses to input their profile information and upload an
+      image to be part of your Township Small Business ChatBot platform. You can
+      further extend this logic to handle multiple businesses and provide a
+      comprehensive business directory for your users.
     media:
       fields:
         - name: name
