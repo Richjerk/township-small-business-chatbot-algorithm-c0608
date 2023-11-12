@@ -745,6 +745,15 @@ sections:
         iconPosition: right
         style: primary
         type: Link
+      - type: Button
+        label: Get started
+        altText: ''
+        url: '/https://bard.google.com/chat/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       url: /images/Chatbot-Consulting.png
       altText: Chatbot Consulting
