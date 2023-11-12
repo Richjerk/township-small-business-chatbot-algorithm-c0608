@@ -199,7 +199,7 @@ sections:
         altText: Small Business Development
         type: ImageBlock
       - url: /images/DigiBiz_Logo_Formats-01.avif
-        altText: Telus logo
+        altText: DigiBiz
         type: ImageBlock
       - url: /images/SABI.jpg
         altText: SA Business Intergrator
