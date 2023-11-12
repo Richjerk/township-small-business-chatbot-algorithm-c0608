@@ -623,7 +623,7 @@ sections:
       transforming your small business into a thriving success story.
     actions: []
     media:
-      title: Chatbot Africa
+      title: Why Tou Should Build A Chatbot Business
       url: 'https://youtu.be/9Gu91IaAysI?si=0d89qlPZdhnp8ePe'
       autoplay: true
       loop: true
