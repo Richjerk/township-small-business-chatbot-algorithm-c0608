@@ -134,7 +134,7 @@ bottomSections:
         elementId: ''
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: '"LocalBiz Connect: Your Township Small Business ChatBot"'
       color: text-dark
 isFeatured: true
 colors: bg-light-fg-dark
