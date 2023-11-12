@@ -319,7 +319,7 @@ sections:
         altText: Small Business Institute
         type: ImageBlock
       - url: /images/innovate.webp
-        altText: Wellster logo
+        altText: Innovate SA
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
