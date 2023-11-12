@@ -1,0 +1,36 @@
+{
+    "type": "Person",
+    "name": "Puseletso Mafisa",
+    "role": "Job title",
+    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n\n",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/avatar1.svg",
+        "altText": "First Last",
+        "styles": {
+            "self": {
+                "borderRadius": "medium",
+                "margin": [
+                    "mb-8"
+                ]
+            }
+        }
+    },
+    "colors": "bg-light-fg-dark",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-6",
+                "pb-6",
+                "pl-6",
+                "pr-6"
+            ],
+            "textAlign": "center",
+            "borderColor": "border-neutral",
+            "borderStyle": "solid",
+            "borderWidth": 0,
+            "borderRadius": "none",
+            "justifyContent": "center"
+        }
+    }
+}

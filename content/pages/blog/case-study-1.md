@@ -70,11 +70,15 @@ bottomSections:
       - title: About Company
         tagline: This is the tagline
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          "At TymeBank, we understand that small businesses are the lifeblood of
+          our economy. That's why we're committed to empowering and uplifting
+          small businesses across South Africa. Our tailored financial
+          solutions, personalized support, and innovative tools are designed to
+          help small businesses thrive and succeed. Whether you're a startup, a
+          family-owned business, or a local entrepreneur, TymeBank is here to
+          support your journey to success. Let's grow together."
         image:
-          url: /images/telus-logo.svg
+          url: /images/TymeBank.jpg
           altText: Company logo
           styles:
             self:
