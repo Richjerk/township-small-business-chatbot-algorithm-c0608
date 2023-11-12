@@ -673,7 +673,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: /images/Township Biz ChatBot.png
       altText: Township Small Business Chatbot Algorithm
       type: ImageBlock
     badge:
