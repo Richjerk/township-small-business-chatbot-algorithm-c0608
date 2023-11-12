@@ -674,7 +674,7 @@ sections:
         type: Link
     media:
       url: /images/hero2.svg
-      altText: Fun feature preview
+      altText: Township Small Business Chatbot Algorithm
       type: ImageBlock
     badge:
       label: This is a badge
