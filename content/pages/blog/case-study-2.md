@@ -75,6 +75,16 @@ bottomSections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: '/https://bard.google.com/chat/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
 isFeatured: true
 colors: bg-light-fg-dark
 styles:
