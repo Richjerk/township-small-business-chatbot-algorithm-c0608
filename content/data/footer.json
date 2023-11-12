@@ -53,7 +53,7 @@
                 "label": "Get started",
                 "altText": "Careers",
                 "url": "/https://g.co/bard/share/b53f24b68bad",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "primary",
