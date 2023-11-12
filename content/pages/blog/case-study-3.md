@@ -8,15 +8,14 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: >-
-    /images/img-placeholder.svg
+  url: /images/img-placeholder.svg
   altText: Case study 3
   styles:
     self:
       borderRadius: x-large
   type: ImageBlock
 bottomSections:
-  - title: Divider
+  - title: Why Do We Have a Proliferation of Informal Businesses in South Africa?
     colors: bg-light-fg-dark
     styles:
       self:
