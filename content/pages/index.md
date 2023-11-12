@@ -230,10 +230,14 @@ sections:
       - title: Effortless Product/Service Search
         subtitle: TownConnect is your go-to chatbot
         text: >
-          **Users can easily search for products or services provided by local
-          businesses through a user-friendly chat interface. This simplifies the
-          process of finding what they need.
-
+          **"South Africa's enterprises trust us for Township Small Business
+          Chatbot Algorithm. TownConnect is your go-to chatbot for exploring and
+          supporting local businesses in your township. Whether you're looking
+          for nearby services, products, or recommendations, our chatbot
+          connects you with the heartbeat of your community. Discover, chat, and
+          engage with local businesses, and even request products or services
+          with ease. TownConnect brings the township's businesses to your
+          fingertips!"
 
           **
         image:
