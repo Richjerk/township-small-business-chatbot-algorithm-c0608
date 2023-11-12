@@ -242,7 +242,7 @@ sections:
           **
         image:
           url: /images/SA YOUTH.png
-          altText: Featured icon two
+          altText: SA YOUTH
           elementId: ''
           type: ImageBlock
         actions: []
