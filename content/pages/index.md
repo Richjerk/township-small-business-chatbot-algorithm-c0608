@@ -196,7 +196,7 @@ sections:
         altText: Innovate SA
         type: ImageBlock
       - url: /images/Small Business Development.jpg
-        altText: Vise logo
+        altText: Small Business Development
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
