@@ -311,7 +311,9 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: >-
+      South Africa's enterprises trust us for Township Small Business Chatbot
+      Algorithm
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
