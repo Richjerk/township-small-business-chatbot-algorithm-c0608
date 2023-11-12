@@ -8,7 +8,7 @@ excerpt: >-
   dolor quas ad odit ipsum qui quia eius.
 featuredImage:
   url: /images/artificalintelligence.jpg
-  altText: Thumbnail
+  altText: Artificial Intelligence
   type: ImageBlock
   styles:
     self:
