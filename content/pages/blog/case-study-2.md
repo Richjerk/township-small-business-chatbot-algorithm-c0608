@@ -136,6 +136,7 @@ bottomSections:
       type: TitleBlock
       text: 'LocalBiz Connect: Your Township Small Business ChatBot'
       color: text-dark
+    subtitle: 'Bringing Your Community''s Businesses Closer, One Chat at a Time'
 isFeatured: true
 colors: bg-light-fg-dark
 styles:
