@@ -257,10 +257,13 @@ sections:
         type: FeaturedItem
       - title: Personalized Recommendations
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          **The chatbot can provide personalized recommendations based on user
+          preferences, location, and previous interactions. This enhances the
+          user experience and helps businesses attract the right customers.
+
+
+          **
         image:
           url: /images/icon3.svg
           altText: Featured icon three
