@@ -32,7 +32,7 @@ bottomSections:
     type: DividerSection
   - items:
       - title: About Company
-        tagline: This is the tagline
+        tagline: Township Small Business Chatbot Algorithm
         subtitle: >-
           The "Township Small Business Chatbot Algorithm" is a software program
           or set of instructions that powers a chatbot designed to facilitate
