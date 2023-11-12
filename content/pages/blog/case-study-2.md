@@ -1,5 +1,5 @@
 ---
-title: Case study 2
+title: '"TownConnect: Your Local Business ChatBot"'
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
