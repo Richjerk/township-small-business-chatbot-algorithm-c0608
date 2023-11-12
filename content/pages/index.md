@@ -652,10 +652,10 @@ sections:
       - title: Township Small Business Chatbot Algorithm
         tagline: '"Elevate Local Commerce with Chat, Connect, and Convenience'
         subtitle: Empowering Local Businesses and Strengthening Community Connections
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          **"Empowering township businesses with an innovative chatbot solution
+          for better engagement, visibility, and growth."**
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
