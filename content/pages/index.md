@@ -647,7 +647,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: What we say about ourselves
     items:
       - title: Township Small Business Chatbot Algorithm
         tagline: '"Elevate Local Commerce with Chat, Connect, and Convenience'
