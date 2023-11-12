@@ -715,6 +715,10 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    badge:
+      type: Badge
+      label: Ask Us Anything
+      color: text-primary
   - title:
       text: List of features here
       color: text-primary
