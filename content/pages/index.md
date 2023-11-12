@@ -747,7 +747,7 @@ sections:
         type: Link
     media:
       url: /images/Chatbot-Consulting.png
-      altText: Dope design preview
+      altText: Chatbot Consulting
       type: ImageBlock
     badge:
       label: This is a badge
