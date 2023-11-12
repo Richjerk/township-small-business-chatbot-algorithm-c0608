@@ -228,7 +228,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Effortless Product/Service Search
-        subtitle: ''
+        subtitle: TownConnect is your go-to chatbot
         text: >
           **Users can easily search for products or services provided by local
           businesses through a user-friendly chat interface. This simplifies the
