@@ -13,7 +13,7 @@ excerpt: >-
   businesses while simplifying the way users explore and patronize their local
   gems."
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/Township Biz ChatBot.png
   altText: Case study 2
   styles:
     self:
