@@ -54,7 +54,7 @@ seo:
     chatbot's purpose and benefits. It also includes relevant keywords to
     improve search engine rankings. Remember to choose keywords that accurately
     represent your chatbot and its target audience.
-  socialImage: /images/img-placeholder.svg
+  socialImage: /images/township business.jpg
   type: Seo
 type: PostFeedLayout
 bottomSections: []
