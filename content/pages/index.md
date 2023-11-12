@@ -852,8 +852,16 @@ sections:
       - title: 'Real-time Communication:'
         tagline: ' Township Small Business Chatbot Algorithm'
         subtitle: '"TownConnect: Your Local Business ChatBot"'
-        text: |
-          Learn from the tutorial and build your first awesome Stackbit site.
+        text: >
+          **"TownConnect is your go-to chatbot for exploring and supporting
+          local businesses in your township. Whether you're looking for nearby
+          services, products, or recommendations, our chatbot connects you with
+          the heartbeat of your community. Discover, chat, and engage with local
+          businesses, and even request products or services with ease.
+          TownConnect brings the township's businesses to your fingertips!"
+
+
+          **
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
