@@ -2,19 +2,6 @@
     "type": "Person",
     "name": "Puseletso Mafisa",
     "role": "Innovation Manager",
-    "image": {
-        "url": "/images/avatar6.svg",
-        "altText": "Harrison Tally",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "margin": [
-                    "mb-8"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "colors": "bg-light-fg-dark",
     "elementId": null,
     "styles": {
