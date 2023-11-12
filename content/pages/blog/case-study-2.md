@@ -86,7 +86,7 @@ bottomSections:
           commerce and community involvement.
         image:
           url: /images/Township Biz ChatBot.png
-          altText: Company logo
+          altText: TSBCA
           styles:
             self:
               margin:
