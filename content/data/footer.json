@@ -49,6 +49,17 @@
                 "type": "Link"
             },
             {
+                "type": "Button",
+                "label": "Get started",
+                "altText": "Careers",
+                "url": "/https://g.co/bard/share/b53f24b68bad",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
+            },
+            {
                 "label": "Blog",
                 "url": "/blog",
                 "icon": "arrowRight",
