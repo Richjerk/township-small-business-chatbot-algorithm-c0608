@@ -3,10 +3,15 @@ title: '"TownConnect: Your Local Business ChatBot"'
 slug: case-study-2
 date: '2023-11-12'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  "Empower your local community with our Township Small Business Chatbot
+  Algorithm. Seamlessly connecting users with the thriving tapestry of local
+  businesses, our innovative chatbot is the gateway to discovering, interacting,
+  and supporting the heartbeat of your township. From uncovering unique products
+  and services to real-time conversations and convenient order requests, our
+  algorithm revolutionizes how communities engage with their local
+  entrepreneurial landscape. Join us in fostering growth and synergy among small
+  businesses while simplifying the way users explore and patronize their local
+  gems."
 featuredImage:
   url: /images/img-placeholder.svg
   altText: Case study 2
