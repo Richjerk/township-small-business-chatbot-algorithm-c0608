@@ -85,7 +85,7 @@ bottomSections:
           bridge the gap between businesses and customers, promoting local
           commerce and community involvement.
         image:
-          url: /images/telus-logo.svg
+          url: /images/Township Biz ChatBot.png
           altText: Company logo
           styles:
             self:
