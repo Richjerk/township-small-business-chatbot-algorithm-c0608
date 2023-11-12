@@ -328,7 +328,7 @@ sections:
         altText: Telus logo
         type: ImageBlock
       - url: /images/SABI.jpg
-        altText: Contentful logo
+        altText: SA Business Intergrator
         type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
