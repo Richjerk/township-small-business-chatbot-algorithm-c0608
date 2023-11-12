@@ -318,7 +318,7 @@ sections:
       - url: /images/SBI.jpg
         altText: Small Business Institute
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/innovate.webp
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
