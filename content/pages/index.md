@@ -255,6 +255,9 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
+        tagline: >-
+          South Africa's enterprises trust us for Township Small Business
+          Chatbot Algorithm. 
       - title: Personalized Recommendations
         subtitle: ''
         text: >
