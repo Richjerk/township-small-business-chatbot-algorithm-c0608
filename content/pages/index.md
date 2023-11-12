@@ -851,7 +851,7 @@ sections:
         type: FeaturedItem
       - title: 'Real-time Communication:'
         tagline: ' Township Small Business Chatbot Algorithm'
-        subtitle: This is the item subtitle
+        subtitle: '"TownConnect: Your Local Business ChatBot"'
         text: |
           Learn from the tutorial and build your first awesome Stackbit site.
         image:
