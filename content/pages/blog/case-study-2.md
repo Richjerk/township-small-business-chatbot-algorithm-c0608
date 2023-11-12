@@ -14,7 +14,7 @@ excerpt: >-
   gems."
 featuredImage:
   url: /images/Township Biz ChatBot.png
-  altText: Case study 2
+  altText: Township Small Business Chatbot Algorithm
   styles:
     self:
       borderRadius: x-large
