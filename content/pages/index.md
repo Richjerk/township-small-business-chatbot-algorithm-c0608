@@ -316,7 +316,7 @@ sections:
       Algorithm
     images:
       - url: /images/SBI.jpg
-        altText: Empathy logo
+        altText: Small Business Institute
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
