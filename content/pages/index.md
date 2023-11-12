@@ -658,7 +658,7 @@ sections:
 
         image:
           url: /images/Puseletso Mafisa CEO.jpg
-          altText: Maria Walters
+          altText: Puseletso Mafisa
           styles:
             self:
               borderRadius: full
