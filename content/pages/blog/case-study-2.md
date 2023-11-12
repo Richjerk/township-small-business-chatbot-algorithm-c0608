@@ -78,7 +78,7 @@ bottomSections:
     actions:
       - type: Button
         label: Get started
-        altText: ''
+        altText: Ask Me Anything
         url: '/https://bard.google.com/chat/'
         showIcon: false
         icon: arrowRight
