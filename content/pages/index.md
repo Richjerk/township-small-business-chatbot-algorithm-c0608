@@ -649,9 +649,7 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: Township Small Business Chatbot Algorithm
         tagline: '"Elevate Local Commerce with Chat, Connect, and Convenience'
         subtitle: Empowering Local Businesses and Strengthening Community Connections
         text: >-
