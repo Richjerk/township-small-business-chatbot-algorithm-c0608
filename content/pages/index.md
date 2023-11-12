@@ -315,7 +315,7 @@ sections:
       South Africa's enterprises trust us for Township Small Business Chatbot
       Algorithm
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/SBI.jpg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
