@@ -623,7 +623,7 @@ sections:
       transforming your small business into a thriving success story.
     actions: []
     media:
-      title: Title of the video
+      title: Chatbot Africa
       url: /images/placeholder-video.mp4
       autoplay: true
       loop: true
