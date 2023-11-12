@@ -40,7 +40,7 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: '"Township Small Business Chatbot Algorithm: Empowering Local Businesses"'
   metaDescription: >-
     This is the blog of the demo site where we post about technology, product,
     and design.
