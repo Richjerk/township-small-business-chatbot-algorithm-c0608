@@ -195,7 +195,7 @@ sections:
       - url: /images/innovate.webp
         altText: Innovate SA
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/Small Business Development.jpg
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
