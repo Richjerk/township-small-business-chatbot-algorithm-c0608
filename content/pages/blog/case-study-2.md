@@ -132,6 +132,10 @@ bottomSections:
         iconPosition: right
         style: primary
         elementId: ''
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
 isFeatured: true
 colors: bg-light-fg-dark
 styles:
