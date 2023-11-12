@@ -8,7 +8,7 @@ topSections:
       text: Featured Post
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Township Business Algorithm
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
@@ -26,15 +26,35 @@ topSections:
           - pr-4
         justifyContent: flex-start
     type: FeaturedPostsSection
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: '/https://bard.google.com/chat/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
 styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: '"Township Small Business Chatbot Algorithm: Empowering Local Businesses"'
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
-  socialImage: /images/img-placeholder.svg
+    **Title: "Township Small Business Chatbot Algorithm - Boost Local Business
+    Engagement"****Description:**Elevate your local business's digital presence
+    with our Township Small Business Chatbot Algorithm. Connect with customers,
+    streamline operations, and empower township entrepreneurs. Try our
+    innovative chatbot today!**Keywords:**- Township Small Business Chatbot
+    Algorithm- Local Business Engagement- Township Entrepreneurship- Streamline
+    Operations- Digital Presence- Customer Interaction- Community
+    Empowerment---In this SEO description, the title is designed to catch the
+    reader's attention, while the description provides a brief overview of the
+    chatbot's purpose and benefits. It also includes relevant keywords to
+    improve search engine rankings. Remember to choose keywords that accurately
+    represent your chatbot and its target audience.
+  socialImage: /images/township business.jpg
   type: Seo
 type: PostFeedLayout
 bottomSections: []
