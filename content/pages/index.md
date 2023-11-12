@@ -624,7 +624,7 @@ sections:
     actions: []
     media:
       title: Chatbot Africa
-      url: /images/placeholder-video.mp4
+      url: 'https://twitter.com/AfricaChatbot'
       autoplay: true
       loop: true
       muted: true
