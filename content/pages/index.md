@@ -229,10 +229,13 @@ sections:
               borderRadius: x-large
       - title: Effortless Product/Service Search
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          **Users can easily search for products or services provided by local
+          businesses through a user-friendly chat interface. This simplifies the
+          process of finding what they need.
+
+
+          **
         image:
           url: /images/icon2.svg
           altText: Featured icon two
