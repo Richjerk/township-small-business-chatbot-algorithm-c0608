@@ -1,5 +1,5 @@
 ---
-title: Case study 3
+title: Why Do We Have a Proliferation of Informal Businesses in South Africa?
 slug: case-study-3
 date: '2021-11-18'
 excerpt: >-
