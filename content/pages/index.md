@@ -654,7 +654,9 @@ sections:
       text: Social Media Management
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: >-
+      Increase Your Reach and Boost Local Business Engagement with our Township
+      Small Business Chatbot Algorithm
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
