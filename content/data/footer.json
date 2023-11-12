@@ -51,7 +51,7 @@
             {
                 "type": "Button",
                 "label": "Get started",
-                "altText": "",
+                "altText": "Careers",
                 "url": "/https://g.co/bard/share/b53f24b68bad",
                 "showIcon": false,
                 "icon": "arrowRight",
