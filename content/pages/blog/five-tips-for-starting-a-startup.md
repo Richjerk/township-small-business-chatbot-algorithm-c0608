@@ -35,7 +35,7 @@ seo:
     and content of your blog post. This meta description is designed to be
     concise while conveying the main topics covered in your blog post to
     potential readers and search engine users.
-  socialImage: /images/abstract-feature1.svg
+  socialImage: /images/Chatbot-Consulting.png
   type: Seo
 colors: bg-light-fg-dark
 styles:
