@@ -78,7 +78,7 @@ bottomSections:
           family-owned business, or a local entrepreneur, TymeBank is here to
           support your journey to success. Let's grow together."
         image:
-          url: /images/telus-logo.svg
+          url: /images/TymeBank.jpg
           altText: Company logo
           styles:
             self:
