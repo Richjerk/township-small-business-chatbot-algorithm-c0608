@@ -26,6 +26,16 @@ topSections:
           - pr-4
         justifyContent: flex-start
     type: FeaturedPostsSection
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: '/https://bard.google.com/chat/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
 styles:
   title:
     textAlign: center
