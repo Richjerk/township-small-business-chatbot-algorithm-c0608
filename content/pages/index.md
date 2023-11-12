@@ -657,7 +657,7 @@ sections:
           for better engagement, visibility, and growth."**
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Puseletso Mafisa CEO.jpg
           altText: Maria Walters
           styles:
             self:
